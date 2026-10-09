@@ -1,0 +1,6 @@
+name: Kac
+version: '${version}'
+
+main: org.example.Kac
+api-version: '26.3'
+load: POSTWORLD
